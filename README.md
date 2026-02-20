@@ -1,70 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shashika Weerakoon 👋
 
-🚀 Shashika Weerakoon
+💻 Final-year IT Student | Full-Stack Developer | AI Enthusiast  
 
-🎓 Final Year IT Undergraduate | 🤖 AI & Full-Stack Developer
-💡 Building LLM-powered intelligent systems & scalable web applications
+🚀 I build **web apps, AI projects, and adaptive learning systems**.  
 
-👨‍💻 About Me
+### Skills
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, FastAPI, Spring Boot, Django  
+- **Database & Tools:** MongoDB, MySQL, PostgreSQL, Firebase, OpenAI  
 
-I’m an Information Technology undergraduate passionate about:
-
-🤖 Large Language Models (LLMs) & Generative AI
-
-🧠 Adaptive Learning Systems
-
-🌐 Full-Stack Web Development
-
-⚙️ Backend Architecture & REST APIs
-
-Currently focused on building intelligent applications using Python, FastAPI, LangChain, GPT-4, React, and Spring Boot.
-
-🔥 Featured Project
-🧠 Adaptive & Cognitive Smart Learning Platform
-
-An AI-powered adaptive quiz system using:
-
-GPT-4 for intelligent question generation
-
-OpenAI Embeddings (3072D)
-
-FAISS Vector Database for semantic search
-
-FastAPI backend + Next.js frontend
-
-Firebase Authentication & Analytics
-
-📌 Focused on adaptive difficulty, semantic retrieval, and personalized learning.
-
-🛠️ Tech Stack
-
-Languages
-Python Java JavaScript TypeScript Kotlin PHP
-
-Frontend
-React.js Next.js HTML CSS Tailwind
-
-Backend
-FastAPI Spring Boot Node.js Express.js Django
-
-Databases
-MongoDB MySQL PostgreSQL Firebase FAISS
-
-AI / ML
-LangChain OpenAI GPT-4 Vector Embeddings Semantic Search
-
-📈 Currently Exploring
-
-Advanced LLM orchestration
-
-AI system design patterns
-
-Scalable backend systems
-
-Applied Machine Learning
-
-📫 Connect With Me
-
-📧 Email: shashikaweerakoonrajans@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/shashika-weerakoon789
+🌱 Always exploring **LLMs, AI, and innovative tech solutions**.  
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/shashika-weerakoon789) | [Email](shashikaweerakoonrajans@gmail.com)
