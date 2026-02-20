@@ -1,16 +1,70 @@
 ## Hi there 👋
 
-<!--
-**IT21245060/IT21245060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Shashika Weerakoon
 
-Here are some ideas to get you started:
+🎓 Final Year IT Undergraduate | 🤖 AI & Full-Stack Developer
+💡 Building LLM-powered intelligent systems & scalable web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+I’m an Information Technology undergraduate passionate about:
+
+🤖 Large Language Models (LLMs) & Generative AI
+
+🧠 Adaptive Learning Systems
+
+🌐 Full-Stack Web Development
+
+⚙️ Backend Architecture & REST APIs
+
+Currently focused on building intelligent applications using Python, FastAPI, LangChain, GPT-4, React, and Spring Boot.
+
+🔥 Featured Project
+🧠 Adaptive & Cognitive Smart Learning Platform
+
+An AI-powered adaptive quiz system using:
+
+GPT-4 for intelligent question generation
+
+OpenAI Embeddings (3072D)
+
+FAISS Vector Database for semantic search
+
+FastAPI backend + Next.js frontend
+
+Firebase Authentication & Analytics
+
+📌 Focused on adaptive difficulty, semantic retrieval, and personalized learning.
+
+🛠️ Tech Stack
+
+Languages
+Python Java JavaScript TypeScript Kotlin PHP
+
+Frontend
+React.js Next.js HTML CSS Tailwind
+
+Backend
+FastAPI Spring Boot Node.js Express.js Django
+
+Databases
+MongoDB MySQL PostgreSQL Firebase FAISS
+
+AI / ML
+LangChain OpenAI GPT-4 Vector Embeddings Semantic Search
+
+📈 Currently Exploring
+
+Advanced LLM orchestration
+
+AI system design patterns
+
+Scalable backend systems
+
+Applied Machine Learning
+
+📫 Connect With Me
+
+📧 Email: shashikaweerakoonrajans@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/shashika-weerakoon789
